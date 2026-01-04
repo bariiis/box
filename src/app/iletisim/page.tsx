@@ -273,8 +273,8 @@ export default function IletisimPage() {
                           </div>
                           <div className="flex items-center gap-2">
                             <Mail className="h-4 w-4 text-primary" />
-                            <a href="mailto:ankara@boxxturkiye.com" className="text-primary hover:underline">
-                              ankara@boxxturkiye.com
+                            <a href="mailto:info@boxxturkiye.com" className="text-primary hover:underline">
+                              info@boxxturkiye.com
                             </a>
                           </div>
                         </div>
@@ -302,8 +302,8 @@ export default function IletisimPage() {
                           </div>
                           <div className="flex items-center gap-2">
                             <Mail className="h-4 w-4 text-primary" />
-                            <a href="mailto:istanbul@boxxturkiye.com" className="text-primary hover:underline">
-                              istanbul@boxxturkiye.com
+                            <a href="mailto:info@boxxturkiye.com" className="text-primary hover:underline">
+                              info@boxxturkiye.com
                             </a>
                           </div>
                         </div>
