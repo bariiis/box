@@ -43,20 +43,14 @@ export default function HakkimizdaPage() {
                 </h2>
                 <div className="space-y-4 text-gray-600">
                   <p>
-                    1996 yılında Phoenix, AZ'de Digital Emulsion, Inc. olarak kurulan BOXX Technologies,
-                    1998'de Austin, Texas'a taşınarak mühendislik, ürün tasarımı, mimarlık, VFX, animasyon,
-                    veri bilimi ve daha fazlası için yüksek performanslı bilgisayar iş istasyonları,
-                    rendering sistemleri ve sunucuların önde gelen yenilikçisi haline geldi.
+                    BOXX TÜRKİYE, BOXX ürünlerini 10 yıldan fazla bir süredir siz müşterileri ile buluşturmaktadır. Sektörde doğan ihtiyaçlara daha hızlı ve uygun maliyetli çözümler sunabilmek adına ise 2019 yılında kendi yerli iş istasyonu ve server markası olan STUUX'u yaratmıştır.
+                  <p>
+                    Sektördeki 15 yıldan fazla birikimimizle, her bir bileşeni özenle seçilerek ve birbirleri ile uyumluluğu bir çok test sürecinden geçirilerek oluşturulan BOXX ve STUUX iş istasyonları ve GPU server sistemleri pek çok firma, kurum ve son kullanıcıda aktif olarak kullanılmaktadır.
+                  </p>
                   </p>
                   <p>
-                    24 yıldır BOXX, rekor kıran performansı, hızı ve güvenilirliği eşsiz sektör bilgisiyle
-                    birleştirerek dünya çapında yaratıcı profesyonellerin güvenilir tercihi olmayı başardı.
-                  </p>
-                  <p>
-                    40 uluslararası bayiye sahip küresel bir şirket olsak da, BOXX ürünlerini Austin'daki
-                    şirket merkezinden ve bağlı şirketler aracılığıyla tasarlıyor, üretiyor ve
-                    destekliyor; son teknoloji derin öğrenme çözümleri, veri depolama ve BT hizmetleri
-                    sunuyoruz.
+                    BOXX ürünlerini Ankara ve İstanbulda'daki şirket merkezinden ve bağlı şirketler aracılığıyla tasarlıyor, üretiyor ve
+                    destekliyor; son teknoloji derin öğrenme çözümleri, veri depolama ve BT hizmetleri sunuyoruz.
                   </p>
                 </div>
               </div>
